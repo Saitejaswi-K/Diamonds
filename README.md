@@ -1,4 +1,6 @@
 DIAMONDS
+
+
 Diamonds game is played by three players using 52 deck of playing cards. The main objective of the game is to win diamond cards by bidding it highest value card of other suits and score the points according to values alloyed to the cards.
 
 
@@ -13,10 +15,10 @@ Rules:
 
 4.Points are awarded as follows:
 
-  .Numbers (2 - 10) - 3
+      .Numbers (2 - 10) - 3
   
-  .Royals  (King, Queen, Jack) - 10
+      .Royals  (King, Queen, Jack) - 10
   
-  .Ace - 11
+      .Ace - 11
 
 5.Player with highest points is the winner.
